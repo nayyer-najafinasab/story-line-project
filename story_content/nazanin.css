@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'BNazanin';
+    src: url('fonts/BNazanin.woff2') format('woff2'),
+         url('fonts/BNazanin.woff') format('woff'),
+         url('fonts/BNazanin.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  body, .slide, .player, .text, div {
+    font-family: 'BNazanin', Tahoma, sans-serif !important;
+  }
+  
